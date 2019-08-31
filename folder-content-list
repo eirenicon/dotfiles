@@ -1,0 +1,28 @@
+Compressed folders content list...
+
+The config folder contains dotfiles and scripts for:
+
+    bspwm/  
+    cmus/     
+    dunst/  
+    mpv/       
+    polybar/  
+    sxhkd/    
+    tint2/  
+    vis/  
+    yad/
+    cava/   
+    cmusvis/  
+    kitty/  
+    neofetch/  
+    rofi/     
+    thefuck/  
+    uzbl/   
+    wal/  
+    zathura/
+
+The local folder contains folders and stuff for:
+
+    icons/  
+    scripts/ 
+    wallpapers/
