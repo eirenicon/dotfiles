@@ -1,5 +1,10 @@
 Latest revision date: 1 Sept. 2019
 
+Building a bspwm Desktop, A Guide
+For those who might be thinking about using or building a tiling window manager setup... I have built my first bspwm desktop (number one of three). If you are interested in what and how to build one for yourself you may find the help guide of some use (be aware it is not short).
+
+http://eirenicon.org/knowledge-base/building-a-bspwm-desktop-a-guide/
+
 I have changed the format of my dotfiles.  All you need do, should you wish to use all of my provided files is rename the config and local folders to .config & .local.  After renaming both simply copy them into the corresponding folders in your /home/<user> directories.  Remember to also make all scripts 'executable'.
 
 Should you wish to use a select set of these dotfiles, simply drag and drop the ones you want to use...
